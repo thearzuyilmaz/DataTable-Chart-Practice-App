@@ -1,4 +1,4 @@
-# My Table App
+# Table & Chart Practice App
 
 A modern data table application built with Next.js 16, React 19, and TanStack Table, featuring sortable columns, filtering, pagination, and column visibility controls.
 
